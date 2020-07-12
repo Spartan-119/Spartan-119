@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an Attentive Data Science aspirant with proven proficiency in AI & Python Programming. I like playing guitar, working out, combat sports & reading.
 
 <!--
 **Spartan-119/Spartan-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
