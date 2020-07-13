@@ -1,5 +1,11 @@
 ### Hi there 👋
-I am an Attentive Data Science aspirant with proven proficiency in AI & Python Programming. I like playing guitar, working out, combat sports & reading.
+I am an Attentive Data Science aspirant offering sharp time management, organisational and assistance skills.
+A personable individual who is willing to work hard and take on any task.
+Pursuing a full-time role in data analysis and research.
+A proficient public speaker with interests lying in fields such as Machine Learning and Artificial Intelligence.
+
+Right now I am trying to get some hands-on experience in Deep learning, NLP, and Pen testing.
+
 
 <!--
 **Spartan-119/Spartan-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
