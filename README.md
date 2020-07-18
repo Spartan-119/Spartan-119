@@ -5,6 +5,7 @@ Pursuing a full-time role in data analysis and research.
 A proficient public speaker with interests lying in fields such as Machine Learning and Artificial Intelligence.
 
 🌱 I’m currently learning Deep learning, NLP, and Pen Testing
+
 💬 Ask me about Machine Learning, Linear regression, data structures & algo
 
 
