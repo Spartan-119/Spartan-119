@@ -6,7 +6,7 @@ A proficient public speaker with interests lying in fields such as Machine Learn
 
 🌱 I’m currently learning Deep learning, NLP, and Pen Testing
 
-💬 Ask me about Machine Learning, Linear regression, data structures & algo
+💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
 
 <!--
