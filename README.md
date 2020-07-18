@@ -4,7 +4,8 @@ A personable individual who is willing to work hard and take on any task.
 Pursuing a full-time role in data analysis and research.
 A proficient public speaker with interests lying in fields such as Machine Learning and Artificial Intelligence.
 
-Right now I am trying to get some hands-on experience in Deep learning, NLP, and Pen testing.
+🌱 I’m currently learning Deep learning, NLP, and Pen Testing
+💬 Ask me about Machine Learning, Linear regression, data structures & algo
 
 
 <!--
