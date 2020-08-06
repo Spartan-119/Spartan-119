@@ -4,9 +4,11 @@ A personable individual who is willing to work hard and take on any task.
 Pursuing a full-time role in data analysis and research.
 A proficient public speaker with interests lying in fields such as Machine Learning and Artificial Intelligence.
 
-🌱 I’m currently learning Deep learning, NLP, and Pen Testing
+🌱 I’m currently learning Deep learning, NLP, and Pen Testing (and HOLY CRAP, arent they tough!)
 
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
+
+📫 How to reach me: https://www.linkedin.com/in/youwanttohirethisguy/ (on LinkedIn)
 
 
 <!--
@@ -15,7 +17,7 @@ A proficient public speaker with interests lying in fields such as Machine Learn
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Deep learning, NLP, and Pen Testing
+- 🌱 I’m currently learning Deep learning, NLP, and Pen Testing 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Machine Learning, Linear regression, data structures & algo
