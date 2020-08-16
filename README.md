@@ -1,11 +1,11 @@
 ### Hi there 👋
 I am an attentive computer science
 graduate, competent in data
-structures & algorithms, whose skills
-lie in Software Engineering, Machine
-Learning, Natural Language
-Processing, & Deep learning.
-A proficient public speaker with interests lying in Computer Science Fundamentals, Machine Learning and Artificial Intelligence.
+structures & algorithms.
+
+I view Computer Science as a universe, & I believe a firm knowledge of data structures, algorithms, basic knowledge of mathematical paradigms like calculus and matrices equips an individual to learn, take on, and kill any subset within this universe - be it Pen testing, Machine Learning, Deep Learning, Software development or anything. Enough with philosophy now!
+
+I am also a proficient public speaker, who in my spare time would be found reading a book, playing guitar or PETTING A DOG.
 
 🌱 I’m currently learning Deep learning, NLP, and Pen Testing (and HOLY CRAP, arent they tough!)
 
