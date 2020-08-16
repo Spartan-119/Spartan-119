@@ -1,7 +1,10 @@
 ### Hi there 👋
-I am an Attentive Data Science aspirant offering sharp time management, organisational and assistance skills.
-A personable individual who is willing to work hard and take on any task.
-Pursuing a full-time role in data analysis and research.
+I am an attentive computer science
+graduate, competent in data
+structures & algorithms, whose skills
+lie in Software Engineering, Machine
+Learning, Natural Language
+Processing, & Deep learning.
 A proficient public speaker with interests lying in Computer Science Fundamentals, Machine Learning and Artificial Intelligence.
 
 🌱 I’m currently learning Deep learning, NLP, and Pen Testing (and HOLY CRAP, arent they tough!)
