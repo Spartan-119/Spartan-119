@@ -3,9 +3,9 @@ I am an attentive computer science
 graduate, competent in data
 structures & algorithms.
 
-I view Computer Science as a universe, & I believe a firm knowledge of data structures, algorithms, basic knowledge of mathematical paradigms like calculus and matrices equips an individual to learn, take on, and kill any subset within this universe - be it Pen testing, Machine Learning, Deep Learning, Software development or anything. Enough with philosophy now!
+I view Computer Science as a universe, & I believe a firm knowledge of data structures, algorithms, and basic knowledge of mathematical paradigms like calculus & matrices equips an individual to learn, take on, and kill any subset within this universe - be it Pen testing, Machine Learning, Deep Learning, Software development or anything. Enough with philosophy now!
 
-I am also a proficient public speaker, who in my spare time would be found reading a book, playing guitar or PETTING A DOG.
+I am also a proficient public speaker, who in my spare time could be found reading a book, playing guitar or PETTING A DOG.
 
 🌱 I’m currently learning Deep learning, NLP, and Pen Testing (and HOLY CRAP, arent they tough!)
 
