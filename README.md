@@ -13,6 +13,7 @@ I am also a proficient public speaker, who in my spare time could be found readi
 
 📫 How to reach me: https://www.linkedin.com/in/youwanttohirethisguy/ (on LinkedIn)
 
+⚡ My Youtube channel: https://www.youtube.com/channel/UCJOlMQlzoq5kQ3m8tdoH3QA
 
 <!--
 **Spartan-119/Spartan-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
