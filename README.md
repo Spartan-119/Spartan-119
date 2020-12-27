@@ -5,7 +5,7 @@ I am an attentive computer science graduate, competent in data structures & algo
 I view Computer Science as a universe, & I believe a firm knowledge of data structures, algorithms, and basic knowledge of mathematical paradigms like calculus & matrices equips an individual to learn, take on, and kill any subset within this universe - be it Cybersecurity, Machine Learning, Deep Learning, Software development or anything. Enough with philosophy now!
 
 I am also a proficient public speaker, who in my spare time could be found reading a book, playing guitar or PETTING A DOG.
-🌱 I’m currently learning Deep learning, NLP, and Pen Testing (and HOLY CRAP, arent they tough!)
+🌱 I’m currently focused on Deep learning, and NLP.(and HOLY CRAP, arent they tough!)
 
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
