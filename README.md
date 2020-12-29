@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am an attentive computer science graduate, competent in data structures & algorithms, and data analysis and data analytics along with some mathematical automation used for prediction which I am led to believe are called Machine Intelligence or AI these days.
+I work as an ETA member in Data Science and Machine Learning Track at Infosys. Currently focused on Data Analysis methods using Python, classical Machine Learning, Deep Learning, and Natural Language Processing.
 
-I view Computer Science as a universe, & I believe a firm knowledge of data structures, algorithms, and basic knowledge of mathematical paradigms like calculus & matrices equips an individual to learn, take on, and kill any subset within this universe - be it Cybersecurity, Machine Learning, Deep Learning, Software development or anything. Enough with philosophy now!
+I am an attentive computer science graduate, competent in data structures & algorithms, and data analysis along with using my knowledge of statistics and other paradigms of mathematics for automation, used for prediction which I am led to believe is called Machine Intelligence or AI these days.
 
-I am also a proficient public speaker, who in my spare time could be found reading a book, playing guitar or PETTING A DOG.
-🌱 I’m currently focused on Deep learning, and NLP.(and HOLY CRAP, arent they tough!)
+I am also a proficient public speaker, who in my spare time could be found reading a book, playing guitar, or PETTING A DOG. 
 
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
