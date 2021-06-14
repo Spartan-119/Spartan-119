@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work as an ETA member in Data Science and Machine Learning Track at Infosys. Currently focused on Data Analysis methods using Python, classical Machine Learning, Deep Learning, and Natural Language Processing.
+I work as a Machine Learning Engineer in the Data Science and Machine Learning Track at Infosys. Currently focused on Data Analysis methods using Python, classical Machine Learning, Deep Learning, and Natural Language Processing.
 
 I am an attentive computer science graduate, competent in data structures & algorithms, and data analysis along with using my knowledge of statistics and other paradigms of mathematics for automation, used for prediction which I am led to believe is called Machine Intelligence or AI these days.
 
