@@ -4,7 +4,7 @@ I work as a Machine Learning Engineer in the Data Science and Machine Learning T
 
 I am an attentive computer science graduate, competent in data structures & algorithms, and data analysis along with using my knowledge of statistics and other paradigms of mathematics for automation, used for prediction which I am led to believe is called Machine Intelligence or AI these days.
 
-I am also a proficient public speaker, who in my spare time could be found reading a book, playing guitar, or PETTING A DOG. 
+I also like debating, reading books on Philosophy, Psychology, technology, and the Biblical laws (Torah). I am also guilty of spending too much time PETTING A DOG. 
 
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
