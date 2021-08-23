@@ -6,6 +6,8 @@ I am an attentive computer science graduate, competent in data structures & algo
 
 I also like debating, reading books on Philosophy, Psychology, technology, and the Biblical laws (Torah). I am also guilty of spending too much time PETTING A DOG. 
 
+🤔 So why "Spartan-119"? I used to play Halo a lot, and init the protagonist is John-117 aka Spartan 117, since he was part of the [Spartan program](https://halo.fandom.com/wiki/SPARTAN-II_Program). I just tweaked a bit and changed 117 --> 119, based on favourite Psalm (Tehillim 119).
+
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
 📫 How to reach me: https://www.linkedin.com/in/youwanttohirethisguy/ (on LinkedIn)
