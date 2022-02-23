@@ -10,6 +10,8 @@ I also like debating, reading books on Philosophy, Psychology, technology, and t
 
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
+⚡ My [Online Interactive Resume on Terminal](https://abin-resume.github.io/).
+
 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/datasciencejokes/).
 
 ⚡ My [Youtube channel](https://www.youtube.com/channel/UCJOlMQlzoq5kQ3m8tdoH3QA).
