@@ -4,7 +4,7 @@ I work as an Associate in the Data Science & Machine Learning (DSML) Track at In
 
 I am an attentive computer science graduate, competent in data structures & algorithms, and data analysis along with using my knowledge of statistics and other paradigms of mathematics for automation, used for prediction which I am led to believe is called Machine Intelligence or AI these days.
 
-I also like debating, reading books on Philosophy, Psychology, technology, and the Biblical laws (Torah). I am also guilty of spending too much time PETTING A DOG. 
+I also like debating, reading books on Philosophy, Psychology, and technology. I am also guilty of spending too much time PETTING A DOG. 
 
 🤔 So why "Spartan-119"? I used to play Halo a lot, and init the protagonist is [John-117](https://halo.fandom.com/wiki/John-117) aka Spartan 117, since he was part of the [Spartan program](https://halo.fandom.com/wiki/SPARTAN-II_Program). I just tweaked a bit and changed 117 --> 119, based on my favourite Psalm ([Tehillim 119](https://www.sefaria.org/Psalms.119?lang=bi)).
 
