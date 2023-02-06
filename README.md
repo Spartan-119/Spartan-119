@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work as an Associate in the Data Science & Machine Learning (DSML) Track at Infosys. Currently focused on Data Analysis methods using Python, classical Machine Learning, Deep Learning, and Natural Language Processing.
+I am currently pursuing my MSc in Data Science at Kingston University London. I used to work as an Associate in the Data Science & Machine Learning (DSML) Track at Infosys. Currently focused on Data Analysis methods using Python, classical Machine Learning, Deep Learning, and Natural Language Processing.
 
 I am an attentive computer science graduate, competent in data structures & algorithms, and data analysis along with using my knowledge of statistics and other paradigms of mathematics for automation, used for prediction which I am led to believe is called Machine Intelligence or AI these days.
 
