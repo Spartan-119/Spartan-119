@@ -1,3 +1,30 @@
+                   __________________________
+           __..--/".'                        '.
+   __..--""      | |                          |
+ /               | |    ___________________   |
+;                | |   :_Abin_is_working__/:  |
+|                | |   |□ □ □ □ □ □ □ ▥ □'.|  |
+|                | |   |□ ■ ▥ ■ ■ ▥ □ □ ▥ ||  |
+|                | |   |■ ■ ▥ ■ ■ □ □ □ □ ||  |
+|                | |   |□ □ □ ▥ ▥ ▥ □ ▥ ■ ||  |
+|                | |   |□ □ □ □ ▥ ■ ▥ □ □ ||  |
+|                | |   |▥ □ ■ ▥ ▥ □ □ ■ □ ||  |
+|                | |   |______......-----"|  |
+|                | |   |_______......-----"   |
+|                | |                  ____----|
+|                | |_____.....----|#######|---|
+|                | |______.....----""""       |
+|                | |                          |
+|... ....        | |  () ----- """           .'
+|..... ......  ||_|    ____......------"""|"
+|. .... .......| |""""""                   |
+'... ..... ....| |                         |
+  "-._ .....  .| |                         |
+      "-._.....| |             ___...---"""'
+          "-._.| | ___...---"""
+              """""
+
+
 ### Hi there 👋
 
 I am currently pursuing my MSc in Data Science at Kingston University London. I used to work as an Associate in the Data Science & Machine Learning (DSML) Track at Infosys. Currently focused on Data Analysis methods using Python, classical Machine Learning, Deep Learning, and Natural Language Processing.
