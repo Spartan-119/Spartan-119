@@ -42,7 +42,7 @@ I am also guilty of spending too much time PETTING A DOG.
 
 💬 Ask me about Machine Learning, Linear regression, data structures & algo, and guitar-related-stuff.
 
-⚡ My [Online Interactive Resume on Terminal](https://abin-resume.github.io/).
+⚡ My [PORTFOLIO WEBSITE](https://spartan-119.github.io/portfolio/).
 
 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/datasciencejokes/).
 
