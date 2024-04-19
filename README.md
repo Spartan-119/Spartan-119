@@ -29,7 +29,7 @@
 
 ### Hi there 👋
 
-I code. Currently working as a Machine Learning Engineer, in Computer Vision at FruitCast.<br>
+I code. Currently working as a Machine Learning Research Engineer, in Computer Vision at FruitCast.<br>
 I am into learning boxing these days. It was a mistake!<br>
 Have been playing 🎸 for over 10 years. So, if you got a gig, ping me yeah🤘<br>
 I am also guilty of spending too much time PETTING DOGS. <br>
