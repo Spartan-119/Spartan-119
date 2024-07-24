@@ -29,7 +29,7 @@
 
 ### Hi there 👋
 
-I code. Currently working as the Head of Data at VIRAL.<br>
+I code. Currently working as Data Scientist at VIRAL.<br>
 I am into learning boxing these days. It was a mistake!<br>
 Have been playing 🎸 for over 10 years. So, if you got a gig, ping me yeah🤘<br>
 I am also guilty of spending too much time PETTING DOGS. <br>
