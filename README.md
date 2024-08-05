@@ -1,4 +1,4 @@
-![coffee](https://github.com/Spartan-119/Spartan-119/blob/master/coffee.jpg)
+![richard](https://github.com/Spartan-119/Spartan-119/blob/master/richard.gif)
 
 ### Hi there 👋
 
