@@ -1,4 +1,4 @@
-![richard](https://github.com/Spartan-119/Spartan-119/blob/master/richard.gif)
+![applied privacy podcast](https://github.com/Spartan-119/Spartan-119/blob/master/Welcome%20to%20the%20Applied%20Privacy%20podcast.gif)
 
 ### Hi there 👋
 
