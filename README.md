@@ -1,5 +1,5 @@
-# <b>Abin Varghese</b> aka CoffeeConsumer<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi%2C+I+am+Abin.+welcome+to+my+GitHub;this+is+a+test.)](https://git.io/typing-svg)
+# <b>Abin Varghese</b> aka <i>CoffeeConsumer</i><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=hi%2C+I+am+Abin.+welcome+to+my+GitHub;I+am+a+Machine+Learning+Engineer+and+a+Privacy+Proponent.)](https://git.io/typing-svg)
 ## <i>👇 is my podcast</i>
 ![applied privacy podcast](https://github.com/Spartan-119/Spartan-119/blob/master/Welcome%20to%20the%20Applied%20Privacy%20podcast.gif)
 
