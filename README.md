@@ -11,6 +11,14 @@ I am into learning boxing these days. It was a mistake!<br>
 Have been playing 🎸 for over 10 years. So, if you got a gig, ping me yeah🤘<br>
 I am also guilty of spending too much time PETTING DOGS. <br>
 
+![Followers](https://img.shields.io/github/followers/spartan-119?style=social)
+![Stars](https://img.shields.io/github/stars/spartan-119?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=spartan-119)
+![Last Commit](https://img.shields.io/github/last-commit/spartan-119/spartan-119)
+![Repo Size](https://img.shields.io/github/repo-size/spartan-119/spartan-119)
+![Languages](https://img.shields.io/github/languages/count/spartan-119/spartan-119)
+![Top Language](https://img.shields.io/github/languages/top/spartan-119/spartan-119)
+
 🤔 So why "Spartan-119"? I used to play Halo a lot, and innit the protagonist is [John-117](https://halo.fandom.com/wiki/John-117) aka Spartan 117, since he was part of the [Spartan program](https://halo.fandom.com/wiki/SPARTAN-II_Program). I just tweaked a bit and changed 117 --> 119, based on my favourite Psalm ([Tehillim 119](https://www.sefaria.org/Psalms.119?lang=bi)).
 
 💬 Ask me about Privacy-Enhancing Technologies (PETs), Classical and Deep Machine Learning, data structures & algo, and boxing-related-stuff.
