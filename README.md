@@ -7,8 +7,6 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
                           
-
-<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&multiline=true&width=600&height=100&lines=hi%2C+I+am+Abin.+welcome+to+my+GitHub.;I+am+a+Machine+Learning+Engineer%2C;+and+a+Privacy+Proponent.)](https://git.io/typing-svg)
 
 ## <i>👇 is my podcast</i>
