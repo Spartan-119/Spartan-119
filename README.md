@@ -9,8 +9,8 @@
                           
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&multiline=true&width=600&height=100&lines=hi%2C+I+am+Abin.+welcome+to+my+GitHub.;I+am+a+Machine+Learning+Engineer%2C;+and+a+Privacy+Proponent.)](https://git.io/typing-svg)
 
-## <i>👇 is my podcast</i>
-![applied privacy podcast](https://github.com/Spartan-119/Spartan-119/blob/master/Welcome%20to%20the%20Applied%20Privacy%20podcast.gif)
+## <i>[Coffee AI](https://coffeeai.co/)</i>
+![Coffee AI](https://github.com/Spartan-119/Spartan-119/blob/master/coffeeai.gif)
 
 ### Hi there 👋
 
