@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&multiline=true&width=600&height=100&lines=hi%2C+I+am+Abin.+welcome+to+my+GitHub.;I+am+a+Machine+Learning+Engineer%2C;+and+a+Privacy+Proponent.)](https://git.io/typing-svg)
 
 ## <i>[Coffee AI](https://coffeeai.co/)</i>
-![Coffee AI](https://github.com/Spartan-119/Spartan-119/blob/master/coffeeai.gif)
 
 ### Hi there 👋
 
