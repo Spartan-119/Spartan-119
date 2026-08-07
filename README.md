@@ -1,7 +1,7 @@
 welcome to my page i'm prolly doing this --> <br>
 ![hehe](giphy-16.gif)
 
-##founder of  <i>[Coffee AI](https://coffeeai.co/)</i>
+## founder of  <i>[Coffee AI](https://coffeeai.co/)</i>
 
 ### Hi there 👋
 
