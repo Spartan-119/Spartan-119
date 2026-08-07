@@ -3,8 +3,6 @@ welcome to my page i'm prolly doing this --> <br>
 
 ## founder of  <i>[Coffee AI](https://coffeeai.co/)</i>
 
-### Hi there 👋
-
 I code.<br>
 I build.<br>
 I train-i-yo.<br>
