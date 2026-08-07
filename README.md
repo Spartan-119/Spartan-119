@@ -1,5 +1,5 @@
 welcome to my page i'm prolly doing this --> <br>
-![hehe](giphy-16.gif)
+![hehe](richard-coffee.gif)
 
 ## founder of  <i>[Coffee AI](https://coffeeai.co/)</i>
 
