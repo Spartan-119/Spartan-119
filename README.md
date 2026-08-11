@@ -1,4 +1,3 @@
-welcome to my page i'm prolly doing this --> <br>
 ![hehe](richard-coffee.gif)
 
 ## founder of  <i>[Coffee AI](https://coffeeai.co/)</i>
